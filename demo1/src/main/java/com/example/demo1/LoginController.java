@@ -27,7 +27,11 @@ public class LoginController {
 //         System.out.println("HI this is login page");
          return "HI this is login page";
     }
-
+ //@RequestMapping("/login")
+   // public String showLoginPage(){
+//         System.out.println("HI this is login page");
+     //    return "HI this is login page";
+    //}
 //    @RequestMapping(value="/login", method = RequestMethod.POST)
 //    public String showWelcomePage(ModelMap model, @RequestParam String name, @RequestParam String password){
 
